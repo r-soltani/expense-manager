@@ -1,7 +1,7 @@
-// AML-framework
-// Copyright (c) 2018 Reza Soltani
-// Distributed under the GPL software license, see the accompanying
-// file LICENSE or https://opensource.org/licenses/GPL-3.0.
+# Expense-Manager
+# Copyright (c) 2018 Reza Soltani
+# Distributed under the GPL software license, see the accompanying
+# file LICENSE or https://opensource.org/licenses/GPL-3.0.
 
 import csv
 import plotly
